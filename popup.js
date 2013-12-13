@@ -17,8 +17,3 @@ var historyTrackerWindow = {
 document.addEventListener('DOMContentLoaded', function () {
   historyTrackerWindow.showHistory();
 });
-
-// $('clearButton').click(function(){
-//   var textNode = document.createTextNode("heyyyy");
-//   document.getElementById("Notes").appendChild(textNode); 
-// });

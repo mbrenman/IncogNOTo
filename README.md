@@ -10,3 +10,6 @@ The privacy barrier that Incognito mode implies is easily broken if the user all
 
 ###Use:
 Clicking on the extension icon pulls up the list of hosts and their corresponding visit counts
+
+###Installation
+To install, download the folder containing all of the files. In Google Chrome, go to chome://extensions/ and click, "Load unpacked extension..." After loading, click "Allow in incognito" and click Reload. The extension icon (lock.png) should appear in the extension bar, and the extension should be active.
